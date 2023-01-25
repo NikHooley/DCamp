@@ -46,3 +46,8 @@ adsfasdfasdfasdf
 .address-wrapper{
     font-family: 'Ubuntu Condensed', sans-serif;
 }
+
+.nav-link a{
+    color: white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+} 
