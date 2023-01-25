@@ -35,8 +35,10 @@ body{
     grid-gap: 10px;
 }
 
-.navigation-wrapper > .contact-hours-wrapper > .hours{
+.navigation-wrapper > .left-column > .contact-hours-wrapper > .hours{
     font-family: 'Ubuntu Condensed', sans-serif;
+    color: #858585;
+    font-size: 0.8em;
 }
 
 .nav-link a{
