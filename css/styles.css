@@ -51,3 +51,21 @@ body{
     width: 216px;
     height: 100%;
 }
+
+.navigation-wrapper > .center-column{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 42px;
+    width: 500px;
+}
+
+.navigation-wrapper > .center-column > .banner-image{
+    display: flex;
+    justify-content: center;
+}
+
+.links-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
