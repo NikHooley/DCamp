@@ -15,7 +15,7 @@ body{
 }
 
 
-.left-column{
+.navigation-wrapper > .left-column{
     display: flex;
     align-items: center;
 }
@@ -27,11 +27,6 @@ body{
 .icon i{
     font-size: 2em;
 }
-
-.contact-hours-wrapper{
-
-}
-
 
 .left-column > .contact-hours-wrapper {
     display: grid;
@@ -52,7 +47,7 @@ body{
     font-family: 'Ubuntu Condensed', sans-serif;
 } 
 
-.banner-image img{
+.banner-image > img{
     width: 216px;
     height: 100%;
 }
