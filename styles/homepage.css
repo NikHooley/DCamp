@@ -77,3 +77,13 @@
 .features-section > .columns-wrapper > .column :nth-child(3){
     letter-spacing: 2px;
 }
+
+.footer {
+    background-color: #11122b;
+    display: flex;
+    justify-content: center;
+}
+
+.footer > img {
+    height: 200px;
+}
