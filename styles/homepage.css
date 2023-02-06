@@ -78,12 +78,3 @@
     letter-spacing: 2px;
 }
 
-.footer {
-    background-color: #11122b;
-    display: flex;
-    justify-content: center;
-}
-
-.footer > img {
-    height: 200px;
-}
